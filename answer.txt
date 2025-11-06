@@ -1,0 +1,4 @@
+1. I think those options help set up Git with useful features like command-line tools, a GUI, and system integration so it’s easier to use.
+2. From what i know, programmers use the command line because it’s faster, more flexible, and allows them to perform many actions efficiently without relying on graphical tools.
+3. It prints the full file path of the folder you are currently in.
+It’s a .md file or markdown file called README.md, and it usually contains a short description or introduction to the project.
