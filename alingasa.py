@@ -18,6 +18,9 @@ while game_running:
     player_dudut -= 1
   if move == "right":
     player_dudut += 1
+  if move == "quit":
+    print("Maybe next time=(")
+    break
   else:
     print("invalid move!) 
     
