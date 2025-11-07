@@ -8,7 +8,7 @@ game_running = True
 print(f"Find the treasure at ({treasure_x}, {treasure_y})!")
 
 while game_running:
-  move = input("Enter move (up/down/left/right or quit): ").lower()
+  move = input("Enter move (up/down/left/right or q): ").lower()
   
   if move == "up":
     player_harvey += 1
@@ -18,7 +18,7 @@ while game_running:
     player_dudut -= 1
   if move == "right":
     player_dudut += 1
-  if move == "quit":
+  if move == "q":
     print("Maybe next time=(")
     break
   else:
