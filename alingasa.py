@@ -1,7 +1,7 @@
 player_dudut = 0
 player_harvey = 0
 
-treasure_x = 5
+treasure_x = 1
 treasure_y = 3
 game_running = True
 
