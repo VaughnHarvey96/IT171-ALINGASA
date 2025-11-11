@@ -20,19 +20,6 @@ while game_running:
   if move == "a":
     player_dudut -= 1
   if move == "d":
-
-print(f"Find the treasure at ({treasure_x}, {treasure_y})!")
-
-while game_running:
-  move = input("Enter move (up/down/left/right or q): ").lower()
-  
-  if move == "w":
-    player_harvey += 1
-  if move == "s":
-    player_harvey -= 1
-  if move == "a":
-    player_dudut -= 1
-  if move == "d":
      player_dudut += 1
   if move == "q":
     print("Maybe next time=(")
